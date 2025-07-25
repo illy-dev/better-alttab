@@ -11,3 +11,4 @@ g++ main.cpp -mwindows -lgdi32 -ldwmapi -o FastSwitcher.exe
 ## TODO:
 - type the name of a software to open it quicker
 - hotkeys like 1, 2, 3 to select the element
+- sort the apps in some order
